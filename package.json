@@ -1,0 +1,20 @@
+{
+    "name" : "deploy-github-actions",
+    "version"  : "1.0.0",
+    "description" : "",
+    "main" : "suma.js",
+    "scripts" : {
+        "test" : "jest",
+        "build" : "node suma"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AngelBarrera12/github-actions-node"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "devDependencies": {
+        "jest" : "^27.2.0"
+    }
+}
