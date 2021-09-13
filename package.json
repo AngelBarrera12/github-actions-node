@@ -15,6 +15,6 @@
     "license": "ISC",
     "keywords": [],
     "devDependencies": {
-        "jest" : "^27.2.0"
+        "jest" : "25.1.0"
     }
 }
